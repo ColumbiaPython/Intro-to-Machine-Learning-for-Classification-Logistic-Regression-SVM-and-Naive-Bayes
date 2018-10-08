@@ -8,10 +8,9 @@
 Introduction to Machine Learning for Classification
 
 ### Logistic Regression
-1. example question, concepts, data analysis
-2. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
-3. Binary Classification
-4. One vs. Rest: Multiple Categories Classification
+1. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
+2. Binary Classification
+3. One vs. Rest: Multiple Categories Classification
 
 ### Naive Bayes:
 Why Naive Bayes is naive?
