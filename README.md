@@ -1,13 +1,32 @@
-# week-4-Linear-Regression
-Linear Regression for Data Analytics
+# Intro to Machine Learning for Classification: Logistic Regression, SVM, and Naive Bayes
+
+## Part one: class organization
+all students read out their reserach proposals (Github project readme file)
+
+## Part two: programming
+Introduction to Machine Learning for Classification
+
+### Logistic Regression
+1. example question, concepts, data analysis
+2. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
+3. Binary Classification
+4. One vs. Rest: Multiple Categories Classification
+
+### Naive Bayes:
+Why Naive Bayes is naive?
+
+### SVM: 
+Explain how SVM works.
+
+## Part three: project management
+
+1. every student create individual project in ColumbiaPython (we have four now)
+2. finish research proposal in github as a readme file: a. what is your research question? b. why your dataset can answer the question?
+3. upload new files into github (reference papers, data & codes)
 
 
-Part One: Understanding Linear Regression
-1. what if we double the sample data, how would the linear regression result change?
-2. what if we replace the missing data with average, how would the linear regression result change?
 
-Part Two: Programming
-Use Python to answer the questions and confirm your hypothesis from Part One
 
-Part Three: Project Management
-5 min pitch on your research proposal and initial data exporation result
+
+#### Reference: 
+1. https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
