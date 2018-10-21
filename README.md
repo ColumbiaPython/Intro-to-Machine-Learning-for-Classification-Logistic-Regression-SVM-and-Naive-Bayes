@@ -12,9 +12,6 @@ Introduction to Machine Learning for Classification
 2. Binary Classification
 3. One vs. Rest: Multiple Categories Classification
 
-### Naive Bayes:
-Why Naive Bayes is naive?
-
 ### SVM: 
 Explain how SVM works.
 
