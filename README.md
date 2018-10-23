@@ -1,4 +1,4 @@
-# Intro to Machine Learning for Classification: Logistic Regression, SVM, and Naive Bayes
+# Intro to Machine Learning for Classification: Logistic Regression and SVM
 
 ## Part one: class organization
 1. Finish research proposal in Github as a readme file: a. what is your research question? b. why your dataset can answer the question?
